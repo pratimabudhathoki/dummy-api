@@ -18,7 +18,7 @@ class _NewSearchState extends State<NewSearch> {
     return Scaffold(
       appBar: AppBar(title: const Text('Search')),
       body: Column(
-        children: [git 
+        children: [
           Padding(
             padding: const EdgeInsets.all(10),
             child: TextField(
